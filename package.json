@@ -1,0 +1,26 @@
+{
+  "name": "@bencevans/mini-duration",
+  "version": "0.0.0",
+  "description": "Mini Duration Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencevans/mini-duration.git"
+  },
+  "keywords": [
+    "duration",
+    "parser"
+  ],
+  "author": "Ben Evans <ben@bluechimp.io> (https://bencevans.io)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bencevans/mini-duration/issues"
+  },
+  "homepage": "https://github.com/bencevans/mini-duration#readme",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}
