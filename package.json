@@ -1,6 +1,6 @@
 {
   "name": "@bencevans/mini-duration",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Mini Duration Parser",
   "main": "index.js",
   "scripts": {
