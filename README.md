@@ -13,6 +13,7 @@ const miniDuration = require('@bencevans/mini-duration')
 
 miniDuration('5d12h') // => (5 * DAY) + (12 * HOUR) => 475200000
 miniDuration('4s') // => (4 * SECOND) => 4000
+miniDuration('not a mini duration') // => null
 ```
 
 ## API
